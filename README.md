@@ -8,7 +8,7 @@ allowing seamless VPN connectivity across multiple networks.
 ## 🚀 Installation & Usage
 Download and run the script using:
 ```bash
-wget https://raw.githubusercontent.com/quadc88/OpenVPN-Installer/main/Install_OpenVPN_Community.sh
+wget https://github.com/quadc88/OpenVPN-Installer/blob/main/Install_OpenVPN.sh
 chmod +x Install_OpenVPN_Community.sh
 ./Install_OpenVPN_Community.sh
 ```
