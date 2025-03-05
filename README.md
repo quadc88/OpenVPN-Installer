@@ -13,14 +13,14 @@ chmod +x Install_OpenVPN_Community.sh
 ./Install_OpenVPN_Community.sh
 ```
 
-✨ Features
+## ✨ Features
 Automated OpenVPN installation and configuration
 Supports Site-to-Site VPN
 Automatically adds/removes static routes
 Generates client .ovpn configuration files
 Compatible with Ubuntu 20.04, 22.04, and 24.04
 
-📌 Supported Systems
+## 📌 Supported Systems
 ✅ Ubuntu 20.04
 ✅ Ubuntu 22.04
 ✅ Ubuntu 24.04
